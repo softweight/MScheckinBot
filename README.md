@@ -23,7 +23,7 @@ getCookie("user_token")
 ```
 ![](https://hackmd.io/_uploads/ByJtWrQI3.png)
 
-回傳的就是你的TOKEN==複製起來==
+回傳的就是你的TOKEN**複製起來**
 
 ## Step4
 - 打開MapleDaily.exe 輸入TOKEN 就會開始自動輸入邀請碼
