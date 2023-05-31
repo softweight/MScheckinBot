@@ -1,6 +1,5 @@
 # 深淵遠征隊 Live++ 邀請碼小幫手
----
-[程式連結](https://drive.google.com/file/d/161ScbXSX3JzuBmTOrlKE6g7xfxCmwFlp/view?usp=sharing)
+
 
 [活動連結](https://tw-event.beanfun.com/MapleStory/Event/E20230523/Index.aspx)
 
